@@ -1,0 +1,43 @@
+Value,Qty,Price Ea.,Price total (MOQ),LCSC link
+18pF capacitor 0603,2,0.0047,0.47,https://www.lcsc.com/product-detail/C107040.html
+22uF capacitor 0603,4,0.23,0.45,https://www.lcsc.com/product-detail/C59461.html
+0.1uF capacitor 0603,22,0.0101,1.01,https://www.lcsc.com/product-detail/C15725.html
+1uF capacitor 0603,6,0.0089,0.45,https://www.lcsc.com/product-detail/C95843.html
+20pF capacitor 0603,1,0.0047,0.047,https://www.lcsc.com/product-detail/C105621.html
+SHOU HAN TF PUSH microSD card socket,1,0.063,0.63,https://www.lcsc.com/product-detail/C393941.html
+LED 0603 RED,7,0.0035,0.35,https://www.lcsc.com/product-detail/C965799.html
+LED 0603 GREEN,7,0.0050,0.5,https://www.lcsc.com/product-detail/C965804.html
+APH252012C1R5MP01 (1.5uH SMD inductor),1,0.034,0.68,https://www.lcsc.com/product-detail/C42455360.html
+10k ohm resistor 0603,5,0.0011,0.11,https://www.lcsc.com/product-detail/C50397040.html
+680 ohm resistor 0603,14,0.001,0.10,https://www.lcsc.com/product-detail/C54921071.html
+39k ohm resistor 0603,1,0.001,0.10,https://www.lcsc.com/product-detail/C54921034.html
+78k ohm resistor 0603,1,0.001,0.10,https://www.lcsc.com/product-detail/C3016126.html
+47k ohm resistor 0603,5,0.0014,0.14,https://www.lcsc.com/product-detail/C2907173.html
+LXW-52X52X2-SMD tactile switch,2,0.023,0.45,https://www.lcsc.com/product-detail/C53447014.html
+SOSET 3225 24MHz 12pF 10ppm crystal,1,0.069,0.69,https://www.lcsc.com/product-detail/C5181479.html
+ULN2003A Darlington transistor array SOIC-16,2,0.141,0.70,https://www.lcsc.com/product-detail/C7512.html
+USBLC6-2SC6 USB ESD protection SOT-23-6,1,,,https://www.lcsc.com/product-detail/C7519.html
+TMI TMI3253S DC-DC converter SOT-23-6,1,0.092,0.27,https://www.lcsc.com/product-detail/C478943.html
+ME6211C15M5 1.5V LDO regulator SOT-23-5,1,0.15,0.77,https://www.lcsc.com/product-detail/C53100.html
+ME6211C33M5 3.3V LDO regulator SOT-23-5,1,0.051,0.51,https://www.lcsc.com/product-detail/C82942.html
+,,,,
+(For adacent project) OPSCO Optoelectronics SK6812MINI-E,70,0.07,4.87,https://www.lcsc.com/product-detail/C5149201.html
+(For adjacent project) ST(Semtech) 1N4148W,70,0.0113,2.26,https://www.lcsc.com/product-detail/C81598.html
+,,,,
+Allwinner V3LP processor LQFP-128,1,2.33,4.66,https://www.superbuy.com/en/page/buy/?url=https%3A%2F%2Fdetail.1688.com%2Foffer%2F1050707306347.html
+Winbond W25Q256JVFIQT 256Mbit SPI flash,1,0.4,4.00,https://www.superbuy.com/en/page/buy/?url=https%3A%2F%2Fdetail.1688.com%2Foffer%2F684579822646.html
+,,,,
+Estimated Factory Shipping,,,15.00,
+,,,,
+LCSC Merchandise Subtotal,,,,17.38
+LCSC Shipping Estimate,,,,12.84
+LCSC Taxes Buffer,,,,3.00
+LCSC Total,,,,33.22
+,,,,
+JLCPCB Fabrication,5,,,3.30
+JLCPCB Stencil,1,,,4.00
+JLCPCB Shipping Estimate,,,,13.55
+JLCPCB Taxes Buffer,,,,3.00
+JLCPCB Total,,,,20.55
+,,,,
+Grand Total,,,,53.77

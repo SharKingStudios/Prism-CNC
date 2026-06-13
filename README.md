@@ -130,3 +130,7 @@ This project is **100% open-source and powered mostly by questionable engineerin
 If it breaks, turns a copper board into modern art, or makes a rainbow
 
 that’s on you.
+
+<p align="center">
+  <img src="Renders/Prism%20CNC%20Zine%20Poster.png">
+</p>
