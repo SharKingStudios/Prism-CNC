@@ -127,6 +127,20 @@ Open an issue, submit a PR, or just tell me what you would improve.
 
 The CAD is open source, and you can find it [here](https://cad.onshape.com/documents/1aa6c09953ac790210485dc6/w/6b1c00a08b066aa576aa547d/e/5a6e3f7311d3f720ac9f9311?renderMode=0&uiState=6a2eb7e9a9192702fd3ce2ca)!
 
+## Wiring
+
+The wiring is a bit self explanatory but you can also follow this:
+
+![Wiring Diagram](Renders/Prism%20CNC%20Wiring%20Diagram.png)
+
+---
+
+## BOM
+
+All the fun bits you need to make this yourself live [here](/BOM.csv)!
+
+Note: This design assumes you have two spare Ender 3 printers to supply items such as the motors, aluminum extrusions, and power supplies. If you dont already have some scrap printers, you will need to be sure you get these extra components!
+
 ---
 
 ## Disclaimer
