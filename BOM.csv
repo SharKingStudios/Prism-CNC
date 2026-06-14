@@ -1,6 +1,6 @@
 Item,Qty,Price Ea.,Price total (MOQ),Product Link
 775 Spindle,1,39,39,https://www.aliexpress.us/item/3256805767996082.html
-Spindle Motor Driver,1,,,
+Spindle Motor Driver,1,10,10,https://www.amazon.com/dp/B0BV925J5W
 CNC Controller,1,38.23,38.23,https://www.aliexpress.us/item/3256807037541587.html
 MGN12H Linear Rails 400mm Set,2,35.69,71.38,https://www.amazon.com/dp/B0B8RL97NN
 MGN12H Linear Rails 150mm Set,1,25.39,25.39,https://www.amazon.com/dp/B0D54L8LH4
@@ -8,9 +8,9 @@ Lead Screws 400mm Set,1,15.59,15.59,https://www.amazon.com/dp/B0981YNCNC
 Lead Screw Adapters Set,2,7,14,https://www.amazon.com/dp/B079J22KX1
 8mm Lead Screw Nut Blocks,4,11.99,47.96,https://www.amazon.com/dp/B01M4Q9WIC
 8mm Pillow Block Bearings Set,1,9,9,https://www.amazon.com/dp/B07C4Y7P2C
-Acrylic Front Panel Set,1,,,
+Acrylic Front Panel Set,1,16,16,https://www.amazon.com/dp/B085L5V796
 2020 Extrusion Hinge + Handle Set,1,10,10,https://www.amazon.com/dp/B0F6T7YSV6
-Side Acrylic Panels Set,1,,,
+Side Acrylic Panels Set (1mm),2,10,20,https://www.amazon.com/dp/B0CQYQCWLS
 Limit Switches Set,1,6,6,https://www.amazon.com/dp/B07X142VGC
 M5 t nut sets,2,7,14,https://www.aliexpress.us/item/3256806752835564.html
 Led Light Strips,1,14,14,https://www.amazon.com/dp/B088BPGMXB
@@ -19,5 +19,5 @@ End Mills Set,1,16,16,https://www.amazon.com/dp/B089VWBZY2
 Sacrificial Ender 3,2,,,
 Custom Laser Cut Metal Plates,,,,Donated by PRICE Industries
 ,,,,
-Taxes & Shipping,,,,
-Grand Total,,,,
+Taxes & Shipping,,,30,
+Grand Total,,,395.92,

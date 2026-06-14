@@ -123,6 +123,12 @@ Open an issue, submit a PR, or just tell me what you would improve.
 
 ---
 
+## CAD
+
+The CAD is open source, and you can find it [here](https://cad.onshape.com/documents/1aa6c09953ac790210485dc6/w/6b1c00a08b066aa576aa547d/e/5a6e3f7311d3f720ac9f9311?renderMode=0&uiState=6a2eb7e9a9192702fd3ce2ca)!
+
+---
+
 ## Disclaimer
 
 This project is **100% open-source and powered mostly by questionable engineering decisions**.
